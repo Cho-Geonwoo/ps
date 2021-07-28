@@ -1,2 +1,6 @@
+*
 *.pdf
 *.txt
+.vscode
+!*.cpp
+!.gitignore
