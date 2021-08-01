@@ -4,3 +4,5 @@
 .vscode
 !*.cpp
 !.gitignore
+!dp
+!divide_and_conquer
