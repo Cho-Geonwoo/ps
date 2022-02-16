@@ -2,3 +2,4 @@ need_cleaning
 .vscode
 *.dSYM/
 input.txt
+output.txt
