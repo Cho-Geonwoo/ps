@@ -21,7 +21,7 @@ def mergeSort(start, end):
             else:
                 tmp.append(arr[b])
                 b += 1
-                count += (mid - a + 1)
+                count += mid - a + 1
 
         if a <= mid:
             tmp += arr[a : mid + 1]

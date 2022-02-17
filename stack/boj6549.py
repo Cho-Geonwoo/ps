@@ -24,7 +24,7 @@ while True:
         del stack[-1]
         width = N
         if len(stack) > 0:
-            width = N - stack[-1] -1
+            width = N - stack[-1] - 1
         sum = max(sum, height * width)
 
     print(sum)
