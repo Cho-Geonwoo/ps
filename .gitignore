@@ -3,3 +3,4 @@ need_cleaning
 *.dSYM/
 input.txt
 output.txt
+secret/
